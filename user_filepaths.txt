@@ -1,0 +1,4 @@
+/glade/scratch/jmccurry/WOF/realtime
+/glade/campaign/univ/umcp0011/WOF_FORECAST_ARCHIVE
+/glade/u/home/jmccurry/colab_scripts
+/glade/scratch/jmccurry/WOF/realtime/OBSGEN/OBS_SEQ_CONV
